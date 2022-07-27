@@ -1,0 +1,130 @@
+gard_id,gard_name,disease_name,found_by,all_synonyms,
+GARD:0012765,Transient myeloproliferative syndrome,transient myeloproliferative syndrome,exact_match,"[Transient abnormal myelopoiesis,TMD,Transient myeloproliferative disease]",
+GARD:0012768,Reversible cerebral vasoconstriction syndrome,reversible cerebral vasoconstriction syndrome,exact_match,[RCVS],
+GARD:0012784,Livedoid vasculopathy,livedoid vasculopathy,exact_match,"[Segmental hyalinizing vasculopathy,Livedo vasculitis,Livedoid vasculitis,Livedo reticularis with summer ulcerations,Livedo reticularis with winter ulcerations]",
+GARD:0012799,Late-Onset Familial Alzheimer Disease,late-onset familial alzheimer disease,exact_match,null,
+GARD:0012800,PTEN hamartoma tumor syndrome,pten hamartoma tumor syndrome,exact_match,[PHTS],
+GARD:0012813,Pustular psoriasis,pustular psoriasis,exact_match,null,
+GARD:0012819,Generalized pustular psoriasis,generalized pustular psoriasis,exact_match,"[Psoriasis 14, pustular,GPP]",
+GARD:0012820,Pustulosis palmaris et plantaris,pustulosis palmaris et plantaris,exact_match,"[Palmoplantar pustulosis,LPP,PPP,Localized pustular psoriasis]",
+GARD:0012825,FOXG1 syndrome,foxg1 syndrome,exact_match,[FOXG1-related disorder],
+GARD:0012829,Nontuberculous mycobacterial lung disease,nontuberculous mycobacterial lung disease,exact_match,"[Non-tuberculous mycobacterial lung disease,Pulmonary non-tuberculous mycobacterial infection]",
+GARD:0012835,Acute interstitial pneumonia,acute interstitial pneumonia,exact_match,"[Acute interstitial pneumonitis,Hamman-Rich syndrome]",
+GARD:0012843,Disseminated peritoneal leiomyomatosis,disseminated peritoneal leiomyomatosis,exact_match,"[Diffuse peritoneal leiomyomatosis,Leiomyomatosis peritonealis disseminate,DPL,LPD]",
+GARD:0012860,Ataxia with Oculomotor Apraxia Type 2,ataxia with oculomotor apraxia type 2,exact_match,"[SCAN2,Autosomal recessive spinocerebellar ataxia-1,Ataxia-oculomotor apraxia type 2,AOA2,SCAN 2,SCAR1,Spinocerebellar ataxia with axonal neuropathy type 2]",
+GARD:0012867,ACTH-secreting pituitary adenoma,acth-secreting pituitary adenoma,exact_match,"[Corticotroph pituitary adenoma,Pituitary corticotroph micro-adenoma,Pituitary dependent Cushing syndrome,Pituitary-dependent Cushing syndrome,Cushing's Disease,Cushing disease]",
+GARD:0012889,Childhood apraxia of speech,childhood apraxia of speech,exact_match,"[Developmental apraxia of speech,Developmental verbal apraxia,Developmental verbal dyspraxia,DAS,Articulatory apraxia,Speech and language disorder with orofacial dyspraxia,Speech-language disorder type 1,Speech-language disorder-1,CAS]",
+GARD:0012894,Zika virus infection,zika virus infection,exact_match,"[Zika fever,Zika virus disease]",
+GARD:0012900,Early infantile epileptic encephalopathy 4,early infantile epileptic encephalopathy 4,exact_match,"[EIEE4,STXBP1-related early-onset encephalopathy,STXBP1 disorders]",
+GARD:0012901,Early infantile epileptic encephalopathy 25,early infantile epileptic encephalopathy 25,exact_match,"[SLC13A5 deficiency,EIEE25]",
+GARD:0012908,Duarte Galactosemia,duarte galactosemia,exact_match,null,
+GARD:0012911,Scleritis,scleritis,exact_match,null,
+GARD:0012919,Malignant migrating partial seizures of infancy,malignant migrating partial seizures of infancy,exact_match,"[MMPSI,Early infantile epileptic encephalopathy 14,EIEE14,Malignant migrating partial epilepsy of infancy,Migrating partial seizures in infancy,Migrating partial epilepsy of infancy,Migrating partial seizures of infancy,MMPEI,MPEI,MPSI,Epilepsy of infancy with migrating focal seizures,Malignant migrating focal seizures of infancy]",
+GARD:0012925,Familial multiple lipomatosis,familial multiple lipomatosis,exact_match,[Multiple lipomatosis],
+GARD:0012927,Sudden sensorineural hearing loss,sudden sensorineural hearing loss,exact_match,"[Acute sensorineural hearing loss by acute acoustic trauma or sudden deafness or surgery induced acoustic trauma,Sudden deafness]",
+GARD:0012931,ADNP syndrome,adnp syndrome,exact_match,"[Helsmoortel-van der Aa Syndrome,ADNP-related syndromic intellectual disability-autism spectrum disorder,HVDAS]",
+GARD:0012939,Juvenile spondyloarthropathy,juvenile spondyloarthropathy,exact_match,null,
+GARD:0012943,X-linked hypophosphatemia,x-linked hypophosphatemia,exact_match,"[X-linked hypophosphatemic rickets,XLH,Hypophosphatemic rickets, X-linked dominant,Hypophophatemia, X-linked,Vitamin D-Resistant Rickets, X-linked,Hypophophatemic vitamin D-resistant rickets,HPDR]",
+GARD:0012959,Primary orthostatic hypotension,primary orthostatic hypotension,exact_match,[Neurogenic Orthostatic Hypotension],
+GARD:0012964,DCMA syndrome,dcma syndrome,exact_match,"[Dilated cardiomyopathy with ataxia,3-methylglutaconic aciduria, type V,3-methylglutaconic aciduria type 5,MGA5]",
+GARD:0012967,Reticulohistiocytoma,reticulohistiocytoma,exact_match,"[Solitary reticulohistiocytosis,Solitary histiocytoma]",
+GARD:0012977,Mendelian susceptibility to mycobacterial diseases,mendelian susceptibility to mycobacterial diseases,exact_match,"[Idiopathic infection caused by BCG or atypical mycobacteria,Mendelian susceptibility to atypical mycobacteria,Mendelian susceptibility to mycobacterial diseases,Mendelian susceptibility to mycobacterial infections,MSMD]",
+GARD:0012980,Monoclonal mast cell activation syndrome,monoclonal mast cell activation syndrome,exact_match,"[MMAS,Monoclonal MCAD]",
+GARD:0012981,Mast cell activation syndrome,mast cell activation syndrome,exact_match,[MCAS],
+GARD:0012994,Craniofacial microsomia,craniofacial microsomia,exact_match,null,
+GARD:0013004,Hepatic veno-occlusive disease,hepatic veno-occlusive disease,exact_match,"[Hepatic veno-occlusive disease,Sinusoidal obstruction syndrome]",
+GARD:0013007,"Methemoglobinemia, beta-globin type","methemoglobinemia, beta-globin type",exact_match,"[Hemoglobin M disease,Blue baby syndrome,Autosomal dominant methemoglobinemia,Hereditary methemoglobinemia due to hemoglobin mutation,M hemoglobinopathy]",
+GARD:0013011,ANCA-associated vasculitis,anca-associated vasculitis,exact_match,"[Anti-neutrophil cytoplasmic antibody-associated vasculitis,Antineutrophil cytoplasmic antibody-associated vasculitis,AAV]",
+GARD:0013020,Microcystic lymphatic malformation,microcystic lymphatic malformation,exact_match,"[Capillary lymphangioma,Capillary lymphatic malformation,Cutaneous lymphangioma circumscriptum,Microcystic infiltrating lymphatic malformation,Microcystic lymphangioma,Superficial lymphatic malformation,Superficial lymphangioma]",
+GARD:0013022,Germ cells tumors,germ cells tumors,exact_match,null,
+GARD:0013028,Dissociative seizures,dissociative seizures,exact_match,"[Psychogenic nonepileptic seizures,Psychogenic seizures,Pseudoseizures,Functional seizures,Non-epileptic attack disorder (NEAD),PNES]",
+GARD:0013029,Episodic angioedema with eosinophilia,episodic angioedema with eosinophilia,exact_match,[Gleich syndrome],
+GARD:0013034,Pancreatic neuroendocrine tumor,pancreatic neuroendocrine tumor,exact_match,"[Pancreatic endocrine tumor,Islet cell tumor,Pancreatic neuroendocrine neoplasm,Neuroendocrine tumor of pancreas,Pancreatic NET,PNET,Well-differentiated NEN of pancreas,Well-differentiated neuroendocrine neoplasm of pancreas,Well-differentiated pancreatic NEN,Well-differentiated pancreatic neuroendocrine neoplasm]",
+GARD:0013040,Necrobiosis lipoidica,necrobiosis lipoidica,exact_match,"[Necrobiosis lipoidica diabeticorum (formerly),Oppenheim-Urbach disease]",
+GARD:0013046,Giant cell tumor of bone,giant cell tumor of bone,exact_match,"[GCT of bone,Osteoclastoma]",
+GARD:0013047,Testicular germ cell tumor,testicular germ cell tumor,exact_match,"[Germ cell tumor of testis,Testicular germ cell tumor]",
+GARD:0013058,Autosomal dominant multiple pterygium syndrome,autosomal dominant multiple pterygium syndrome,exact_match,[Distal arthrogryposis type 8],
+GARD:0013075,Diffuse intrinsic pontine glioma,diffuse intrinsic pontine glioma,exact_match,"[Infiltrative brainstem glioma,DIPG]",
+GARD:0013085,SCN8A encephalopathy,scn8a encephalopathy,exact_match,"[Early infantile epileptic encephalopathy-13,Epileptic Encephalopathy, early infantile, 13,EIEE13,SCN8A epilepsy]",
+GARD:0013087,Pediatric acute-onset neuropsychiatric syndrome,pediatric acute-onset neuropsychiatric syndrome,exact_match,[PANS],
+GARD:0013090,Small Intestinal Adenocarcinoma,small intestinal adenocarcinoma,exact_match,"[Adenocarcinoma of Small Bowel,Small bowel adenocarcinoma,Adenocarcinoma of small instestine,Adenocarcinoma of the small bowel,Adenocarcinoma of the small instestine]",
+GARD:0013103,Adult T-cell leukemia/lymphoma,adult t-cell leukemia/lymphoma,exact_match,"[ATLL,Adult T-cell leukaemia,Adult T-cell leukaemia/lymphoma (HTLV-1 positive),Adult T-cell lymphoma]",
+GARD:0013105,Dent disease,dent disease,exact_match,"[Dent's disease,Dents disease,Dent syndrome,Low-molecular-weight proteinuria with hypercalciuria and nephrocalcinosis,Renal Fanconi syndrome with nephrocalcinosis and renal stones,X-linked recessive hypercalciuric hypophosphatemic rickets,X-linked recessive nephrolithiasis]",
+GARD:0013107,Adenosquamous carcinoma of the endometrium,adenosquamous carcinoma of the endometrium,exact_match,"[Endometrial Adenosquamous Cancer,Endometrial Adenosquamous Carcinoma]",
+GARD:0013119,Granulomatous lobular mastitis,granulomatous lobular mastitis,exact_match,[Idiopathic granulomatous lobular mastitis],
+GARD:0013124,Chronic thromboembolic pulmonary hypertension,chronic thromboembolic pulmonary hypertension,exact_match,[CTEPH],
+GARD:0013142,Acute flaccid myelitis,acute flaccid myelitis,exact_match,null,
+GARD:0013160,Rhizomelic chondrodysplasia punctata,rhizomelic chondrodysplasia punctata,exact_match,"[RCDP,Rhizomelic chondrodysplasia punctata]",
+GARD:0013175,Renal medullary carcinoma,renal medullary carcinoma,exact_match,[Kidney Medullary Carcinoma],
+GARD:0013179,HIVEP2-related intellectual disability,hivep2-related intellectual disability,exact_match,[Autosomal dominant intellectual disability-43],
+GARD:0013186,Xanthoma disseminatum,xanthoma disseminatum,exact_match,[Montgomery syndrome],
+GARD:0013197,CHD2 myoclonic encephalopathy,chd2 myoclonic encephalopathy,exact_match,"[Childhood-onset epileptic encephalopathy,EEOC,Epileptic encephalopathy, childhood-onset,CHD2-related neurodevelopmental disorders,CHD2 encephalopathy]",
+GARD:0013208,Hypertrophic olivary degeneration,hypertrophic olivary degeneration,exact_match,[HOD],
+GARD:0013209,Pituitary stalk interruption syndrome,pituitary stalk interruption syndrome,exact_match,"[Ectopic neurohypophysis,PSIS]",
+GARD:0013215,Renal cell carcinoma,renal cell carcinoma,exact_match,"[Adenocarcinoma of Kidney,Renal Cell Adenocarcinoma]",
+GARD:0013219,BAP1 tumor predisposition syndrome,bap1 tumor predisposition syndrome,exact_match,"[Tumor predisposition syndrome,BAP1-related tumor predisposition syndrome,Cutaneous/ocular melanoma, atypical melanocytic proliferations, and other internal neoplasms,COMMON syndrome,BAP1-TPDS,Tumor susceptibility linked to germline BAP1 mutations]",
+GARD:0013221,IQSEC2,iqsec2,exact_match,"[X-linked intellectual disability 1/78,X-linked intellectual disability 1,X-linked intellectual disability 78,IQSEC2-related epilepsy,IQSEC2-related intellectual disability]",
+GARD:0013237,Marginal zone lymphoma,marginal zone lymphoma,exact_match,[MZL],
+GARD:0013259,Bainbridge-Ropers syndrome,bainbridge-ropers syndrome,exact_match,"[Severe feeding difficulties-failure to thrive-microcephaly due to ASXL3 deficiency syndrome,ASXL3/Bainbridge-Ropers Syndrome]",
+GARD:0013270,Extranodal nasal NK/T cell lymphoma,extranodal nasal nk/t cell lymphoma,exact_match,"[NK/T-cell lymphoma,Angiocentric T-cell lymphoma,Lethal midline granuloma,NKTCL,Nasal T/natural killer-cell lymphoma]",
+GARD:0013296,17q12 duplication,17q12 duplication,exact_match,"[Chromosome 17q12 duplication syndrome,17q12 microduplication syndrome,Trisomy 17q12,Recurrent duplication of 17q12,17q12 microduplication,Dup(17)(q12)]",
+GARD:0013297,17q12 deletion syndrome,17q12 deletion syndrome,exact_match,"[Chromosome 17q12 deletion syndrome,17q12 microdeletion syndrome,Del(17)(q12),Monosomy 17q12,17q12 recurrent deletion syndrome]",
+GARD:0013307,Necrotizing autoimmune myopathy,necrotizing autoimmune myopathy,exact_match,"[Immune-mediated necrotizing myopathy,Anti-HMG-CoA myopathy,Anti-SRP myopathy,Autoimmune necrotizing myositis,IMNM,NAM,Immune myopathy with myocyte necrosis]",
+GARD:0013334,Niemann-Pick disease,niemann-pick disease,exact_match,null,
+GARD:0013373,GATA2 deficiency,gata2 deficiency,exact_match,null,
+GARD:0013384,Hepatopulmonary syndrome,hepatopulmonary syndrome,exact_match,null,
+GARD:0013388,Congenital generalized lipodystrophy,congenital generalized lipodystrophy,exact_match,"[Beradinelli-Seip syndrome,Generalized congenital lipodystrophy,Berardinelli-Seip congenital lipodystrophy,Brunzell syndrome,BSCL,GCL,Lipoatrophic diabetes,Berardinelli-Seip syndrome]",
+GARD:0013402,Papillary glioneuronal tumors,papillary glioneuronal tumors,exact_match,null,
+GARD:0013423,TANGO2-Related Metabolic Encephalopathy and Arrhythmias,tango2-related metabolic encephalopathy and arrhythmias,exact_match,"[Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration,TANGO2,Recurrent metabolic encephalomyopathic crises-rhabdomyolysis-cardiac arrhythmia-intellectual disability syndrome,TANGO2 related disease]",
+GARD:0013433,Pleuroparenchymal fibroelastosis,pleuroparenchymal fibroelastosis,exact_match,"[Idiopathic pleuropulmonary fibroelastosis,Idiopathic pleuroparenchymal fibroelastosis,IPPFE]",
+GARD:0013441,Congenital Zika syndrome,congenital zika syndrome,exact_match,[Zika syndrome],
+GARD:0013445,Neuroendocrine tumor,neuroendocrine tumor,exact_match,"[Neuroendocrine neoplasia,Neuroendocrine neoplasm]",
+GARD:0013446,Plasmacytoma,plasmacytoma,exact_match,[Solitary plasmacytoma],
+GARD:0013451,Kaposiform lymphangiomatosis,kaposiform lymphangiomatosis,exact_match,null,
+GARD:0013455,Jackhammer esophagus,jackhammer esophagus,exact_match,[Hypercontractile esophagus],
+GARD:0013495,Shashi-Pena syndrome,shashi-pena syndrome,exact_match,[ASXL2/Shashi-Pena Syndrome],
+GARD:0013565,LRBA deficiency,lrba deficiency,exact_match,"[Combined immunodeficiency due to LRBA deficiency,CID due to LRBA deficiency,Common variable immunodeficiency-8 (CVID8) with autoimmunity,LATAIE disease,LRBA deficiency with Autoantibodies, regulatory T cell defects, Autoimmune Infiltration, and Enteropathy]",
+GARD:0013568,Autosomal recessive spastic paraplegia type 49,autosomal recessive spastic paraplegia type 49,exact_match,"[Autosomal recessive spastic paraplegia-49,SPG49,TECPR2,Hereditary sensory and autonomic neuropathy due to TECPR2 mutation,HSAN due to TECPR2 mutation]",
+GARD:0013578,Myelodysplastic Syndrome With Excess Blasts,myelodysplastic syndrome with excess blasts,exact_match,"[Refractory anemia with excess blasts,RAEB]",
+GARD:0013592,Severe congenital neutropenia,severe congenital neutropenia,exact_match,null,
+GARD:0013606,Subcorneal pustular dermatosis,subcorneal pustular dermatosis,exact_match,"[Sneddon-Wilkinson disease,Pustulosis subcornealis,Subcorneal pustular dermatitis,Sneddon Wilkinson disease]",
+GARD:0013624,Anaplastic pleomorphic xanthoastrocytoma,anaplastic pleomorphic xanthoastrocytoma,exact_match,null,
+GARD:0013629,Drug reaction with eosinophilia and systemic symptoms,drug reaction with eosinophilia and systemic symptoms,exact_match,"[DRESS syndrome,Drug reaction eosinophilic systemic syndrome,Drug rash with eosinophilia and systemic symptoms]",
+GARD:0013636,Smith-Kingsmore syndrome,smith-kingsmore syndrome,exact_match,"[Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome,MINDS syndrome,Macrocephaly, seizures, intellectual disability, umbilical hernia, and facial dysmorphism]",
+GARD:0013639,Classic galactosemia,classic galactosemia,exact_match,"[GALT deficiency,Galactose-1-phosphate uridyltranferase deficiency,Galactose-1-phosphate uridyl transferase deficiency,Galactose-1-phosphate uridyl-transferase deficiency disease,Galactosemia, classic,Galactose-1-phosphate uridyltransferase deficiency,Galactosemia type 1]",
+GARD:0013641,Familial cerebral cavernous malformation,familial cerebral cavernous malformation,exact_match,"[Familial brain cavernous angioma,Familial cerebral cavernoma,Familial brain cavernous hemangioma,Hereditary brain cavernous hemangioma,Hereditary brain cavernous angioma,Hereditary cerebral cavernoma,Hereditary cerebral cavernous malformation]",
+GARD:0013643,Mitochondrial DNA depletion syndrome,mitochondrial dna depletion syndrome,exact_match,[mtDNA depletion syndrome],
+GARD:0013659,Hepatitis D,hepatitis d,exact_match,[Delta hepatitis],
+GARD:0013701,Primary cutaneous follicle center lymphoma,primary cutaneous follicle center lymphoma,exact_match,"[Crosti's Disease,Cutaneous follicle center lymphoma,Cutaneous follicle centre lymphoma,PCFCL]",
+GARD:0013731,T-cell prolymphocytic leukemia,t-cell prolymphocytic leukemia,exact_match,[T Cell Prolymphocytic Leukemia],
+GARD:0013735,Spastic paraplegia 47,spastic paraplegia 47,exact_match,null,
+GARD:0012794,Recessive dystrophic epidermolysis bullosa-generalized other,recessive dystrophic epidermolysis bullosa,manual,not_found,-
+GARD:0012798,"Early-onset, autosomal dominant Alzheimer disease",early-onset autosomal dominant alzheimer disease,manual,not_found,-
+GARD:0004080,"Omphalocele, exstrophy of the cloaca, imperforate anus, and spinal defects complex",cloacal exstrophy,manual,not_found,-
+GARD:0012560,Hurler–Scheie syndrome,hurlerâ€“scheie syndrome,manual,not_found,-
+GARD:0012109,Trichothiodystrophy,trichothiodystrophy,manual,not_found,-
+GARD:0012335,Uterine Carcinosarcoma,uterine carcinosarcoma,manual,not_found,-
+GARD:0002905,Familial dilated cardiomyopathy,dilated cardiomyopathy 1a,manual,not_found,-
+GARD:0012561,Scheie syndrome,scheie syndrome,manual,not_found,-
+GARD:0001917,Dermatitis herpetiformis,dermatitis herpetiformis,manual,not_found,-
+GARD:0012533,Limb-girdle muscular dystrophy type 2I,congenital muscular dystrophy due to dystroglycanopathy,manual,not_found,-
+GARD:0012740,Fibrillary glomerulonephritis,fibrillary glomerulonephritis,manual,not_found,-
+GARD:0006258,Dentinogenesis imperfecta,dentinogenesis imperfecta,manual,not_found,-
+GARD:0007312,Pediatric autoimmune neuropsychiatric disorders associated with Streptococcus infections,pandas,manual,not_found,-
+GARD:0003697,Maturity-onset diabetes of the young,"maturity-onset diabetes of the young, type 1",manual,not_found,-
+GARD:0012392,Cutaneous-skeletal hypophosphatemia syndrome,cutaneous-skeletal hypophosphatemia syndrome,manual,not_found,-
+GARD:0012761,AML with myelodysplasia-related features,aml with myelodysplasia-related features,manual,not_found,-
+GARD:0010811,Chronic atypical neutrophilic dermatosis with lipodystrophy and elevated temperature,candle syndrome,manual,not_found,-
+GARD:0005758,X-linked adrenoleukodystrophy,x-linked adrenoleukodystrophy,manual,not_found,-
+GARD:0012521,IgG4-related disease,igg4-related disease,manual,not_found,-
+GARD:0012570,Beta-Propeller Protein-Associated Neurodegeneration,beta-propeller protein-associated neurodegeneration,manual,not_found,-
+GARD:0010899,Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia,ibmpfd,manual,not_found,-
+GARD:0010762,ACDC,arterial calcification and distal joint calcification,manual,not_found,-
+GARD:0012722,ADCY5-related dyskinesia,adcy5-related dyskinesia,manual,not_found,-
+GARD:0009366,"Penile cancer, adult",penile cancer,manual,not_found,-
+GARD:0009237,SARS,severe acute respiratory syndrome,manual,not_found,-
+GARD:0010779,Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids,clippers,manual,not_found,-
+GARD:0003697,Maturity-onset diabetes of the young,"maturity-onset diabetes of the young, type 2",manual,not_found,-
+GARD:0000536,Acute myeloid leukemia with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22),acute myeloid leukemia,manual,not_found,-
+GARD:0009473,Peroxisomal biogenesis disorders,peroxisomal biogenesis disorders,manual,not_found,-
+GARD:0012471,Leukoencephalopathy - dystonia - motor neuropathy,leukoencephalopathy - dystonia - motor neuropathy,manual,not_found,-
