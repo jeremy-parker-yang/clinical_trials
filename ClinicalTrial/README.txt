@@ -17,3 +17,6 @@ Description of each file. Important files start with **
 # make figures
   phase_trend.py:               makes png figure of current phase of trial by start date
   count_phase.py:               count the total number of trials in each phase
+  
+# others
+  conditions_matched_short.csv: shortened version of conditions_matched.csv for testing
