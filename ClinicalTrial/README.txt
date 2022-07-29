@@ -1,4 +1,4 @@
-Description of each file. Important files start with **
+Description of each file and file dependencies. Important files start with **
 
 # get list of rare diseases
   update_conditions_list.py:    webscrapes the clinical trials website to get the name of each rare disease. save list of rare diseases in conditions_list.txt
