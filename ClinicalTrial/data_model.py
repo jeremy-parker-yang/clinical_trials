@@ -1,3 +1,4 @@
+# Define fields (field names as used by clinical trials api) in clinical trial node type (hub node) 
 ClinicalTrial = ['Acronym','BriefSummary','BriefTitle','CompletionDate','CompletionDateType','LastKnownStatus',
     'LastUpdatePostDate','LastUpdatePostDateType','LastUpdateSubmitDate','NCTId','NCTIdAlias','OfficialTitle',
     'OverallStatus','Phase','PrimaryCompletionDate','PrimaryCompletionDateType','ResultsFirstPostDate',
@@ -5,6 +6,7 @@ ClinicalTrial = ['Acronym','BriefSummary','BriefTitle','CompletionDate','Complet
     'SecondaryId','SecondaryIdDomain','SecondaryIdLink','SecondaryIdType','SeeAlsoLinkLabel','SeeAlsoLinkURL',
     'StartDate','StartDateType','StudyFirstPostDate','StudyFirstPostDateType','StudyType']
 
+# define fields for additional node types (attach to hub node)
 IndividualPatientData = ['AvailIPDComment','AvailIPDId','AvailIPDType','AvailIPDURL','IPDSharing',
     'IPDSharingAccessCriteria','IPDSharingDescription','IPDSharingInfoType','IPDSharingTimeFrame','IPDSharingURL']
 
@@ -45,18 +47,23 @@ PatientRegistry = ['PatientRegistry']
 
 Reference = ['ReferenceCitation','ReferencePMID','ReferenceType','RetractionPMID','RetractionSource']
 
+# list of lists of fields for each additional node type
 additional_class_fields = [IndividualPatientData, Sponsor, Collaborator, Condition, StudyDesign, Participant, 
     ExpandedAccess, Intervention, Location, PatientRegistry, Reference]
 
+# name for each additional node type
 additional_class_names = ['IndividualPatientData','Sponsor','Collaborator','Condition','StudyDesign',
     'Participant','ExpandedAccess','Intervention','Location','PatientRegistry','Reference']
 
+# name for connection from hub node to additional node type
 additional_class_connections = ['has_individual_patient_data','sponsored_by','collaborated_with','includes_conditions',
     'has_study_design','has_participant_info','expanded_access_info','uses_interventions','in_locations',
     'patient_registry_info','has_references']
 
+# variable name to use in cypher
 additional_class_variable_names = ['ind','spo','col','con','stu','par','exp','int','loc','pat','ref']
 
+# list of field types that may not use strings: 1D or 2D array. These fields are handled differently
 special_types = {'OtherEventStatsGroupId', 'OtherEventStatsNumAffected', 'OtherEventStatsNumAtRisk',
     'OutcomeMeasurementGroupId', 'OutcomeMeasurementValue', 'SeriousEventStatsGroupId', 'SeriousEventStatsNumAffected',
     'SeriousEventStatsNumAtRisk', 'OtherEventStatsNumEvents', 'OutcomeClassDenomCountGroupId',
